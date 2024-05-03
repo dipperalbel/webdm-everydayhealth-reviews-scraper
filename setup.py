@@ -9,7 +9,7 @@ setuptools.setup(
     install_requires=[
         'requests==2.22.0',
         'bs4==0.0.1',
-        'tqdm==4.31.1',
+        'tqdm==4.66.3',
         'pandas==0.25.0',
         'gensim==3.6.0',
         'spacy==2.2.0',
