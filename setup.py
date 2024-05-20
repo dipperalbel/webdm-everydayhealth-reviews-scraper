@@ -7,7 +7,7 @@ setuptools.setup(
     name="medinify",
     version="0.0.1",
     install_requires=[
-        'requests==2.22.0',
+        'requests==2.32.0',
         'bs4==0.0.1',
         'tqdm==4.31.1',
         'pandas==0.25.0',
